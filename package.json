@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "vite",
-    "build": "vite build --base=/devHunt-team-project-js/",
+    "build": "vite build --base=/bookshop/",
     "preview": "vite preview"
   },
   "devDependencies": {
